@@ -1,7 +1,3 @@
-layout: page
-title: "Pasty Connection - Development Blog"
-permalink: /blog
-
 # Pasty Connection - Development Blog
 
 ## Information regarding the Development of Pasty Connection v2.0
