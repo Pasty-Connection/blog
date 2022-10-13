@@ -1,6 +1,5 @@
 layout: page
 title: "Pasty Connection - Development Blog"
-permalink: /blog
 
 # Pasty Connection - Development Blog
 
