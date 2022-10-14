@@ -25,7 +25,7 @@ The links below are to live demo documents for the Microservice architechture:
     [Link to ms_groups documentation](http://159.65.27.95/ms_groups/api-docs/)
 
 - ms_users- This is for user features such as creating and editing user accounts etc.
-    [Link to ms_users documentation](http://159.65.27.95/ms_users/api-docs/) (BROKEN)
+    [Link to ms_users documentation](http://159.65.27.95:3001/api-docs/) 
 
 - ms_website - Unknown Functionality. (currently broken - dev only)
     Link to ms_website documentation: N/A
@@ -55,4 +55,4 @@ The links below are to live demo documents for the Microservice architechture:
     [Link to ms_feed documentation](http://159.65.27.95/ms_feed/api-docs/)
 
 - rn_ms_users- This is for user features such as creating and editing user accounts etc.
-    [Link to ms_users documentation](http://159.65.27.95/rn_ms_users/api-docs/)
+    [Link to ms_users documentation](http://159.65.27.95:4001/api-docs/s)
