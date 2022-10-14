@@ -25,7 +25,7 @@ The links below are to live demo documents for the Microservice architechture:
     [Link to ms_groups documentation](http://159.65.27.95/ms_groups/api-docs/)
 
 - ms_users- This is for user features such as creating and editing user accounts etc.
-    [Link to ms_users documentation](http://159.65.27.95/ms_users/api-docs/)
+    [Link to ms_users documentation](http://159.65.27.95/ms_users/api-docs/) (BROKEN)
 
 - ms_website - Unknown Functionality. (currently broken - dev only)
     Link to ms_website documentation: N/A
@@ -43,7 +43,7 @@ The links below are to live demo documents for the Microservice architechture:
     Link to ms_admin documentation:  [ms_media - Swagger Docs](http://159.65.27.95/ms_media/api-docs/)
 
 - ms_notify - This is for admin features such as banning accounts and global notifications etc. (currently broken - dev only)
-    Link to ms_admin documentation: N/A
+    Link to ms_notify documentation: N/A
 
 - ms_places - This is for places lookup functionality? 
     [Link to ms_places documentation](http://159.65.27.95/ms_places/api-docs/)
@@ -53,3 +53,6 @@ The links below are to live demo documents for the Microservice architechture:
 
 - ms_feed - This is for user feed features such as my active lists, posts, comments aand posted to facebook etc? (currently broken - dev only)
     [Link to ms_feed documentation](http://159.65.27.95/ms_feed/api-docs/)
+
+- rn_ms_users- This is for user features such as creating and editing user accounts etc.
+    [Link to ms_users documentation](http://159.65.27.95/rn_ms_users/api-docs/)
